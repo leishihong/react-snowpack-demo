@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["/Users/leishihong/Desktop/leishihong/react-snowpack-demo/src/index.jsx"],
+  "sourcesContent": ["import React from 'react';\nimport ReactDOM from 'react-dom';\nimport App from './App.jsx';\nimport './index.css';\n\nReactDOM.render(\n  <React.StrictMode>\n    <App />\n  </React.StrictMode>,\n  document.getElementById('root'),\n);\n\n// Hot Module Replacement (HMR) - Remove this snippet to remove HMR.\n// Learn more: https://www.snowpack.dev/#hot-module-replacement\nif (import.meta.hot) {\n  import.meta.hot.accept();\n}\n"],
+  "mappings": "AAAA;AACA;AACA;AACA;AAEA,SAAS,OACP,oCAAC,MAAM,YAAP,MACE,oCAAC,MAAD,QAEF,SAAS,eAAe;AAK1B,IAAI,YAAY;AACd,cAAY,IAAI;AAAA;",
+  "names": []
+}
